@@ -1,0 +1,10 @@
+[{
+    "api" : "https://api.data.gov.in/resource/0cde42d3-5f49-4d2a-996c-4dfc4b2e2596?api-key=579b464db66ec23bdd00000125513b3ec8994de655a472e69ce5f96f&format=json&limit=29",
+    "name" : "tax"
+},{
+    "api" : "https://api.data.gov.in/resource/4462bd51-65e5-44c1-a4f0-7cd22a51925c?api-key=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b&format=json&limit=30",
+    "name" : "literacy"
+},{
+    "api" : "https://api.data.gov.in/resource/2e0139a4-d59b-44d8-b7d5-a506c5a093c2?api-key=579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b&format=json",
+    "name" : "crop"
+}]
