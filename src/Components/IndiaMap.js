@@ -26,7 +26,7 @@ const COLOR_RANGE = [
   '#782618'
 ];
 
-const DEFAULT_COLOR = '#EEE';
+const DEFAULT_COLOR = '#FFFF00';
 
 const geographyStyle = {
   default: {
@@ -100,7 +100,7 @@ const IndiaMap = () => {
           projection="geoMercator"
           width={600}
           height={220}
-          data-tip=""
+          data-tip={tooltipContent}
         >
           <Geographies geography={INDIA_TOPO_JSON}>
             {({ geographies }) =>
